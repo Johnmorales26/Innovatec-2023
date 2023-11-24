@@ -1,0 +1,1 @@
+ C:\\Users\\JohnT\\Desktop\\accessible_traveler_app\\.dart_tool\\flutter_build\\1d02a72af91ef887524995a5e7fcbdb1\\native_assets.yaml: 
