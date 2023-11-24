@@ -1,0 +1,1 @@
+enum SenderRol { User, AI }
